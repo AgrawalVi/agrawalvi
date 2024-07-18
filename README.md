@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**AgrawalVi/agrawalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vishrut, a student based in Madison, Wisconsin
 
-Here are some ideas to get you started:
+Check out my [blog](https://vishrut.tech/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my latest projects below!
+
+Tech Stack:
+- Next.js
+- React
+- Prisma/Drizzle
+- shadcn
+- 
+And anything else that's required to get the job done :)
+
+If you want to work on something, contact me via email at `zvishrut@gmail.com` or via my [LinkedIn](https://linkedin.com/in/vishrut-agrawal)
